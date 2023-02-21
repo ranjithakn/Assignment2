@@ -1,3 +1,7 @@
+//Author : Ranjitha
+
+//Date: 21-02-2023
+
 /*The “Coin Flip” Game
 
 Usage: Use nested conditional statements
